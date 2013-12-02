@@ -1,5 +1,5 @@
 {
-    "name":         "libra/libra-locale",
+    "name":         "joacub/libra-locale",
     "type":         "library",
     "description":  "Zend Framework 2 Locale Module. It detect locale by individual module and transfer parameter 'locale' to its Controller",
     "keywords":     ["zf", "zf2", "zendframework", "CMS", "libra"],
